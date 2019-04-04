@@ -1,6 +1,6 @@
 /********************************************************************* 
 * ** Program Name: Hall Class
-* ** Author: Chris Lay
+* ** Author: Jeremy Lay
 * ** Date: 12/24/2018 
 * ** Description: Implementation file for Hall class, derived from Space
 * ** class.  
