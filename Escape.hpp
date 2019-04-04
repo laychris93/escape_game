@@ -1,6 +1,6 @@
 /********************************************************************* 
 * ** Program Name: Escape Class
-* ** Author: Chris Lay
+* ** Author: Jeremy Lay
 * ** Date: 12/24/2018  
 * ** Description: Header file for Escape class, derived from Space
 * ** class.  Class specific variable includes int for guard count.
