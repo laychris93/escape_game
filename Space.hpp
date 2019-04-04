@@ -1,6 +1,6 @@
 /********************************************************************* 
 * ** Program Name: Space Class
-* ** Author: Chris Lay
+* ** Author: Jeremy Lay
 * ** Date: 12/24/2018  
 * ** Description: Header file for abstract Space class.  Class holds
 * ** variables for pointers to adjacent Space objects, bools for whether 
