@@ -1,7 +1,7 @@
 
 /********************************************************************* 
  * ** Program Name: Utilities Class
- * ** Author: Chris Lay
+ * ** Author: Jeremy Lay
  * ** Date: 12/24/2018 
  * ** Description: Implementation file for Utilities class.              
  * *********************************************************************/ 
