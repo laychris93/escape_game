@@ -1,6 +1,6 @@
 /********************************************************************* 
 * ** Program Name: Item struct
-* ** Author: Chris Lay
+* ** Author: Jeremy Lay
 * ** Date: 12/24/2018  
 * ** Description: Header file for Item struct.  Struct holds string for
 * ** Item name, int for Item's attack power, and bools representing Item
