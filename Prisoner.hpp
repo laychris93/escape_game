@@ -1,6 +1,6 @@
 /********************************************************************* 
 * ** Program Name: Prisoner Class
-* ** Author: Chris Lay
+* ** Author: Jeremy Lay
 * ** Date: 12/24/2018  
 * ** Description: Header file for Prisoner class.  Class holds int
 * ** variables for player strength, current attack power, max backpack 
