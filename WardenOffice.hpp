@@ -1,6 +1,6 @@
 /********************************************************************* 
 * ** Program Name: WardenOffice Class
-* ** Author: Chris Lay
+* ** Author: Jeremy Lay
 * ** Date: 12/24/2018  
 * ** Description: Header file for WardenOffice class, derived from Space
 * ** class.  Class specific variables include bool for whether player
