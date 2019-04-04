@@ -1,6 +1,6 @@
 /********************************************************************* 
 * ** Program Name: Item struct
-* ** Author: Chris Lay
+* ** Author: Jeremy Lay
 * ** Date: 12/24/2018  
 * ** Description: Implemenation file for Item struct.  
 * *********************************************************************/
