@@ -1,6 +1,6 @@
 /********************************************************************* 
 * ** Program Name: Prisoner Class
-* ** Author: Chris Lay
+* ** Author: Jeremy Lay
 * ** Date: 12/24/2018  
 * ** Description: Implemenation file for Prisoner class.  
 * *********************************************************************/ 
