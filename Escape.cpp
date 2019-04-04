@@ -1,6 +1,6 @@
 /********************************************************************* 
 * ** Program Name: Escape Class
-* ** Author: Chris Lay
+* ** Author: Jeremy Lay
 * ** Date: 12/24/2018  
 * ** Description: Implementation file for Escape class, derived from Space
 * ** class.  
