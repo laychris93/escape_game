@@ -1,6 +1,6 @@
 /********************************************************************* 
 * ** Program Name: Armory Class
-* ** Author: Chris Lay
+* ** Author: Jeremy Lay
 * ** Date: 12/24/2018 
 * ** Description: Header file for Armory class, derived from Space
 * ** class.  Class specific variables include whether player obtains
