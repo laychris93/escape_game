@@ -1,6 +1,6 @@
 /********************************************************************* 
  * ** Program Name: Game Class
- * ** Author: Chris Lay
+ * ** Author: Jeremy Lay
  * ** Date: 12/24/2018  
  * ** Description: Header file for Game class.  Provides menus 
  * ** and functionality for user interaction with the Jailbreak!
