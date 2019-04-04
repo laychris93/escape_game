@@ -1,6 +1,6 @@
 /********************************************************************* 
  * ** Program Name: Jailbreak!
- * ** Author: Chris Lay
+ * ** Author: Jeremy Lay
  * ** Date: 12/24/2018  
  * ** Description: Program for running Jailbreak! game.  
  * ** Run program with ./jailbreak. 
