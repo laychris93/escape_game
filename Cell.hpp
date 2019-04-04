@@ -1,6 +1,6 @@
 /********************************************************************* 
 * ** Program Name: Cell Class
-* ** Author: Chris Lay
+* ** Author: Jeremy Lay
 * ** Date: 12/24/2018  
 * ** Description: Header file for Cell class, derived from Space
 * ** class.  Class specific variables include whether player frees
