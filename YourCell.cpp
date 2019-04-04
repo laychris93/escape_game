@@ -1,6 +1,6 @@
 /********************************************************************* 
 * ** Program Name: YourCell Class
-* ** Author: Chris Lay
+* ** Author: Jeremy Lay
 * ** Date: 12/24/2018  
 * ** Description: Header file for YourCell class, derived from Space
 * ** class.  
